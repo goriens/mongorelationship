@@ -1,0 +1,24 @@
+{
+    "title": "My first post",
+    "firstName": "Dhaval",
+    "lastName": "chheda",
+    "postedAt": "Mar 9 2022"
+},
+//Post Schema
+{
+    "title": "My first post",
+    "postedAt": "Mar 9 2022",
+    "userId": "user document _id",
+}
+//user Schema
+{
+    "_id": "ehfuewhfui",
+    "firstName": "dhaval",
+    "lastName": "Cheda",
+}
+//Comment schema
+{
+    "_id": "ehfuewhfui",
+    "firstName": "dhaval",
+    "lastName": "Cheda",
+}
